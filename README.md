@@ -68,6 +68,13 @@ enviar todo o código da aplicação para a análise SAST.
 - Agradeço profundamente que possa prestigiar meu projeto dando um pouco da sua atenção, é muito importante pra mim.
 - Se notar quaisquer que sejam os erros ou possiveis melhorias, entre em contato comigo, estarei a disposição para fazer mudanças.
 
+## Selo Chuck Norris de Aprovação
+
+<p align="center">
+  <img src="assets/imgextras/chucknorris (1).png" alt="image">
+</p>
+- Tem motivo melhor pra voce dar uma olhada no repo? 
+
 ---
 <p align="center">
   <img src="assets/et1/logos/compassUol-logo_1.png" alt="image">
