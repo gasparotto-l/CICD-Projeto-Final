@@ -66,6 +66,4 @@
     - Backend API: http://localhost:3000
     - Documentação API: http://localhost:30001/docs
 
-Imagens do backend nessas portas
-
 - Se tudo deu certo até aqui, então perfeito!

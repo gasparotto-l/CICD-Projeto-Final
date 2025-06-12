@@ -224,11 +224,22 @@ pipeline {
 ## Teste de execução
 
 - Agora acesse sua pipeline
-- Clique em <b>Build Now</b> e pronto! Tudo deve correr como esperado.
+
+- Clique em <b>Construir Agora</b> e pronto! Tudo deve correr como esperado.
+    ![alt text](../../assets/et4-5/jenkinsaberto.png)
+    ![alt text](../../assets/et4-5/construiragr.png)
 
 #### Imagens da execução e Acesso
 
 - Execução:
+    ![alt text](../../assets/et4-5/deployexecutado.png)
 
 - Acesso:
+    - http://localhost:30081
+    ![alt text](../../assets/et4-5/jenkislocalhost.png)
+    - http://localhost:30081/docs
+    ![alt text](../../assets/et4-5/jenkislocalhostdocs.png)
+
+- Se conseguir acessar, tudo deu certo!
+    
 
