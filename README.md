@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/logos/logo-DKJ.png" alt="image">
+  <img src="assets/et1/logos/logo-DKJ.png" alt="image">
 </p>
 
 # Projeto-Final-DevOps
@@ -70,5 +70,5 @@ enviar todo o código da aplicação para a análise SAST.
 
 ---
 <p align="center">
-  <img src="./assets/logos/compassUol-logo_1.png" alt="image">
+  <img src="assets/et1/logos/compassUol-logo_1.png" alt="image">
 </p>
