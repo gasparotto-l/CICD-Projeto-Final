@@ -92,9 +92,9 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/2-Conteinerização-com-DockerHub#readme">
-    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/main/Etapas/elementosgraficos/proxima.png" alt="Próxima Etapa" height="50">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/2-Conteirnização-com-DockerHub#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/proxima.jpg" alt="Próxima Etapa" height="40">
   </a>
 </p>
-
 
