@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/2-Conteirnização-com-DockerHub#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+</p>
+
+---
+
 ## Criação do deployment.yaml
 
 - Prepare sua imagem
@@ -67,3 +76,17 @@
     - Documentação API: http://localhost:30001/docs
 
 - Se tudo deu certo até aqui, então perfeito!
+
+---
+
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/2-Conteirnização-com-DockerHub#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/4-5-Jenkins-Build-e-Deploy#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/proxima.jpg" alt="Próxima Etapa" height="8%">
+  </a>
+</p>

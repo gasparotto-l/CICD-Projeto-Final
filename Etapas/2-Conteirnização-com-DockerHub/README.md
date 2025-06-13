@@ -1,3 +1,13 @@
+
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/1-Preparação-do-Projeto#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="%8">
+  </a>
+</p>
+
+---
+
 ## Criação do Dockerfile
 
 - Acesse a sua pasta backend como feito na etapa anterior
@@ -84,4 +94,17 @@ version: "3.8"
 
 - Se conseguiu realizar isso, então tudo certo!
 
+---
+
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/1-Preparação-do-Projeto#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/3-Arquivos-de-Deploy-no-Kubernetes#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/proxima.jpg" alt="Próxima Etapa" height="8%">
+  </a>
+</p>
 

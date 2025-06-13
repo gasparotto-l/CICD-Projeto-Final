@@ -34,3 +34,12 @@ Este projeto teve como objetivo principal a construção de um pipeline de integ
 - Este projeto foi desenvolvido de forma individual como parte do estágio realizado na Compass UOL.  
 - Agradeço a você que está lendo esta documentação por dedicar tempo e atenção.  
 - Caso encontre algum erro ou ponto de melhoria, sinta-se à vontade para entrar em contato comigo.
+
+---
+
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/Etapas/6-Extras#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+</p>

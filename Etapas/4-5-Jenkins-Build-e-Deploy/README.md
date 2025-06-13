@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/3-Arquivos-de-Deploy-no-Kubernetes#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+</p>
+
+---
 ## Criando Pipeline no Jenkins
 
 - Para realizar essa etapa, é necessario ter o jenkins instalado localmente, siga o guia de instalação do site oficial https://www.jenkins.io/doc/book/installing/ e depois continue com a realização da pratica.
@@ -242,4 +250,16 @@ pipeline {
 
 - Se conseguir acessar, tudo deu certo!
     
+---
 
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/3-Arquivos-de-Deploy-no-Kubernetes#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/6-Extras#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/proxima.jpg" alt="Próxima Etapa" height="8%">
+  </a>
+</p>

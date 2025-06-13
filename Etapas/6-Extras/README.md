@@ -1,4 +1,11 @@
-# Plugin Chuck Norris - Jenkins 🥋
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/4-5-Jenkins-Build-e-Deploy#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+</p>
+
+## Plugin Chuck Norris - Jenkins 
 
 ### Instalar Plugin
 1. Acesse **Jenkins Dashboard**
@@ -149,3 +156,15 @@ def sendDiscordNotification(Map config) {
     - Como usar **ç** em algum codigo, imagino que sabia o problema que pode enfrentar.
 
 ---
+
+<p align="center">
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/4-5-Jenkins-Build-e-Deploy#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/7-Considerações-Finais#readme
+  ">
+    <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/proxima.jpg" alt="Próxima Etapa" height="8%">
+  </a>
+</p>
