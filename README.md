@@ -33,16 +33,16 @@ Kubernetes local.
 - [1-Preparação-do-Projeto](./Etapas/1-Preparação-do-Projeto/README.md)
   - [x] Criar um repositório de código no Github para inserir a aplicação de exemplo.
   - [x] Criar conta no Docker Hub.
-  - [ x ] Verificar acesso ao cluster Kubernetes local.
-  - [ x ] Validar execução local com uvicorn.    
+  - [] Verificar acesso ao cluster Kubernetes local.
+  - [] Validar execução local com uvicorn.    
 - [2-Conteirnização-com-DockerHub](./Etapas/2-Conteirnização-com-DockerHub/README.md)
-  - [ ] Criar o dockerfile;
-  - [ ] Fazer build: docker build -t usuario/fastapi-hello:latest .
-  - [ ] Fazer push: docker push usuario/fastapi-hello:latest
-  - [ ] Versionar o dockerfile junto com o código da aplicação no github.
+  - [] Criar o dockerfile;
+  - [] Fazer build: docker build -t usuario/fastapi-hello:latest .
+  - [] Fazer push: docker push usuario/fastapi-hello:latest
+  - [] Versionar o dockerfile junto com o código da aplicação no github.
 
 - [3-Arquivos-de-Deploy-no-Kubernetes](./Etapas/3-Arquivos-de-Deploy-no-Kubernetes/README.md)
-  - [ ] Criar o yaml de deployment da aplicação e aplicá-lo no cluster
+  - [] Criar o yaml de deployment da aplicação e aplicá-lo no cluster
   - [ ] Criar o yaml de service do deploymento e aplicá-lo no cluster
 - [4-5-Jenkins-Build-e-Deploy](./Etapas/4-5-Jenkins-Build-e-Deploy/README.md)
   - [ ] Criar a pipeline no Jenkins
