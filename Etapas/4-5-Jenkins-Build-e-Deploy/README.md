@@ -253,7 +253,7 @@ pipeline {
 ---
 
 <p align="center">
-  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/3-Arquivos-de-Deploy-no-Kubernetes#readme
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/3-Arquivos-de-Deploy-no-Kubernetes#readme
   ">
     <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
   </a>

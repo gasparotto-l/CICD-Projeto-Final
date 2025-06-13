@@ -158,12 +158,12 @@ def sendDiscordNotification(Map config) {
 ---
 
 <p align="center">
-  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/4-5-Jenkins-Build-e-Deploy#readme
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/4-5-Jenkins-Build-e-Deploy#readme
   ">
     <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/anterior.jpg" alt="Etapa Anterior" height="8%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/Etapas/7-Considerações-Finais#readme
+  <a href="https://github.com/gasparotto-l/CICD-Projeto-Final/tree/main/Etapas/7-Considerações-Finais#readme
   ">
     <img src="https://raw.githubusercontent.com/gasparotto-l/CICD-Projeto-Final/refs/heads/main/elementosgraficos/proxima.jpg" alt="Próxima Etapa" height="8%">
   </a>
