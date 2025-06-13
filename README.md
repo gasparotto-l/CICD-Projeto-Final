@@ -7,7 +7,7 @@
 
 ## Info
 - Autor: Luiz H. Gasparotto
-- Data: Entre 09/06 e 00/00
+- Data: Entre 09/06 e 13/06
 - Tipo: Academico/Trabalho
 
 ## Tecnologias Utilizadas
@@ -16,6 +16,9 @@
 - Docker Hub: Registro público de imagens.
 - Jenkins: Ferramenta de CI/CD.
 - Kubernetes local: Rancher Desktop
+
+## Repositorio da Aplicação
+#### https://github.com/gasparotto-l/aplicacao-CICD/tree/main
 
 ## Descrição do Projeto
 
