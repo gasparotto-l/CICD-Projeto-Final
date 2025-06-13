@@ -31,10 +31,10 @@ Kubernetes local.
 ## Súmario do Projeto:
 
 - [1-Preparação-do-Projeto](./Etapas/1-Preparação-do-Projeto/README.md)
-  - [ ] Criar um repositório de código no Github para inserir a aplicação de exemplo.
-  - [ ] Criar conta no Docker Hub.
-  - [ ] Verificar acesso ao cluster Kubernetes local.
-  - [ ] Validar execução local com uvicorn.    
+  - [ x ] Criar um repositório de código no Github para inserir a aplicação de exemplo.
+  - [ x ] Criar conta no Docker Hub.
+  - [ x ] Verificar acesso ao cluster Kubernetes local.
+  - [ x ] Validar execução local com uvicorn.    
 - [2-Conteirnização-com-DockerHub](./Etapas/2-Conteirnização-com-DockerHub/README.md)
   - [ ] Criar o dockerfile;
   - [ ] Fazer build: docker build -t usuario/fastapi-hello:latest .
