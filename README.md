@@ -27,31 +27,30 @@ Kubernetes local.
 
 ## Súmario do Projeto:
 
-- [1-Preparação-do-Projeto](1-Preparação-do-Projeto)
+- [1-Preparação-do-Projeto](./Etapas/1-Preparação-do-Projeto/README.md)
   - [ ] Criar um repositório de código no Github para inserir a aplicação de exemplo.
   - [ ] Criar conta no Docker Hub.
   - [ ] Verificar acesso ao cluster Kubernetes local.
   - [ ] Validar execução local com uvicorn.    
-- [2-Conteirnização-com-DockerHub](2-Conteirnização-com-DockerHub)
+- [2-Conteirnização-com-DockerHub](./Etapas/2-Conteirnização-com-DockerHub/README.md)
   - [ ] Criar o dockerfile;
   - [ ] Fazer build: docker build -t usuario/fastapi-hello:latest .
   - [ ] Fazer push: docker push usuario/fastapi-hello:latest
   - [ ] Versionar o dockerfile junto com o código da aplicação no github.
 
-- [3-Arquivos-de-Deploy-no-Kubernetes](3-Arquivos-de-Deploy-no-Kubernetes)
+- [3-Arquivos-de-Deploy-no-Kubernetes](./Etapas/3-Arquivos-de-Deploy-no-Kubernetes/README.md)
   - [ ] Criar o yaml de deployment da aplicação e aplicá-lo no cluster
   - [ ] Criar o yaml de service do deploymento e aplicá-lo no cluster
-- [4-Jenkins-Build-e-Push](4-Jenkins-Build-e-Push)
+- [4-5-Jenkins-Build-e-Deploy](./Etapas/4-5-Jenkins-Build-e-Deploy/README.md)
   - [ ] Criar a pipeline no Jenkins
   - [ ] Realizar o stage de build
   - [ ] Realizar o stage de push
-- [5-Jenkins-Deploy-no-Kubernetes](5-Jenkins-Deploy-no-Kubernetes)
   - [ ] Jenkins precisa acessar o kubectl (usar agent com kubectl e kubeconfig
 configurados);
   - [ ] Adicionar etapa de deploy no Jenkinsfile
   - [ ] Testar a pipeline completa
 
-- [6-Extras](6-Extras)
+- [6-Extras](./Etapas/6-Extras/README.md)
   - [ ] Criar uma etapa após o push da imagem de container, realizar o scanner
 de vulnerabilidades, utilizando o Trivy.
   - [ ] Criar um webhook com o Slack ou Discord para avisar quando a pipeline
@@ -60,7 +59,7 @@ for atualizar no ambiente Kubernetes.
 enviar todo o código da aplicação para a análise SAST.
   - [ ] Utilizar Helm Chart para implantar a aplicação no Kubernetes.
      
-- [7-Considerações-Finais](7-Considerações-Finais)
+- [7-Considerações-Finais](./Etapas/7-Considerações-Finais/README.md)
   - Testes realizados
   - Erros encontrados e possiveis soluções
   - Conclusão do projeto
@@ -73,7 +72,7 @@ enviar todo o código da aplicação para a análise SAST.
 <p align="center">
   <img src="assets/imgextras/chucknorris (1).png" alt="image">
 </p>
-- Tem motivo melhor pra voce dar uma olhada no repo? 
+- Tem motivo melhor que esse, pra voce dar uma olhada no repo? 
 
 ---
 <p align="center">
